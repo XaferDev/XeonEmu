@@ -29,4 +29,4 @@ Utilidad:<br>
 -Consola: Se encarga de gestionar toda la sintaxys de xeon, comandos de consola, mostrar mensajes, etc<br>
 -Encriptador: Se encarga de encriptar y desencriptar datos... Aun no lo he arreglado, asi que hay cosas que estan mal, pero funciona perfectamente.<br>
 
-![alt text](XaferDev/XeonEmu/blob/master/Image/1.png)
+![alt text](XaferDev/XeonEmu/Image/1.png)
